@@ -9,6 +9,8 @@ Antes de colaborar com este site, por gentileza, leia o {ref}`codigo-de-conduta`
 :maxdepth: 1
 
 apresentacoes/index.md
+aulas/index.md
+material/index.md
 blogs/index.md
 codigo-de-conduta.md
 ```
