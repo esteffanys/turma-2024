@@ -11,9 +11,6 @@ Neste espaço, poderemos escrever ideias livremente, respeitando sempre as [norm
 :maxdepth: 1
 :caption: Sumário
 
-pedra.md
-papel.md
-tesoura.md
 ```
 
 [^1]: Um link também pode ser criado em imagens.

@@ -1,11 +1,9 @@
-# Módulos
+# Módulo 02
 
 ```{toctree}
 :maxdepth: 1
 :caption: Sumário
 :glob:
 
-modulo-01/index.md
-modulo-02/index.md
 *
 ```

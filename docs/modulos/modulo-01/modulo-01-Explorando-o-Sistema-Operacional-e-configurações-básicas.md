@@ -1,4 +1,4 @@
-# Módulo 01: Explorando o Sistema Operacional e configurações básicas.
+# Explorando o Sistema Operacional e configurações básicas.
 
 
 
